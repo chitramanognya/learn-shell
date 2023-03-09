@@ -12,6 +12,7 @@
 #  Cyan             36
 
 # \e[0m ->Zero code is going to reset the color,Meaninig if we enable color for sure we need to disable it, otherwise the color will continue on screen.
+#  we can use double or singlequotes,However double quotes are preferred
 
 
 echo -e "\e[31mHello in Red Color"
